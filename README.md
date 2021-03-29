@@ -1,8 +1,11 @@
 # Impressum
 
 Daniel Gruner
+
 Ludwig-Essinger-Str. 1
+
 74080 Heilbronn
+
 dnlgrnr911[at]gmail.com
 
 # Disclaimer - rechtliche Hinweise
