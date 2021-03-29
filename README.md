@@ -1,9 +1,8 @@
 # Impressum
 
-Daniel Gruner  
-Ludwig-Essinger-Str. 1  
-74080 Heilbronn  
-Tel: 004915220105233  
+Daniel Gruner
+Ludwig-Essinger-Str. 1
+74080 Heilbronn
 dnlgrnr911[at]gmail.com
 
 # Disclaimer - rechtliche Hinweise
@@ -30,9 +29,9 @@ Die Anbieter und alle auf dieser Website genannten Dritten behalten sich ausdrü
 
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google"), 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics verwendet sog. "Cookies" (Textdateien), die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die vollständige IP-Adresse an einen Server von Google in den USA übertragen und dort anonymisiert. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
 
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Add-on herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de). Das Browser-Add-on zur Deaktivierung von Google Analytics ist mit Chrome, Internet Explorer 8 bis 11, Safari, Firefox und Opera kompatibel.
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Add-on herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de. Das Browser-Add-on zur Deaktivierung von Google Analytics ist mit Chrome, Internet Explorer 8 bis 11, Safari, Firefox und Opera kompatibel.
 
-Weitere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter folgenden Links: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) und [https://www.google.de/intl/de/policies/](https://www.google.de/intl/de/policies/).
+Weitere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter folgenden Links: http://www.google.com/analytics/terms/de.html und https://www.google.de/intl/de/policies/.
 
 **Disclaimer (Haftungsausschluss)**
 
